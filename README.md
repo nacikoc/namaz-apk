@@ -20,3 +20,4 @@ Kurulum: APK'yı indirin, açın; "bilinmeyen kaynaklara izin ver" sorusunu onay
 ## Gizlilik
 
 Uygulama hiçbir kişisel veri toplamaz. Ayrıntılar: [Gizlilik Politikası](gizlilik-politikasi.md)
+Bu uygulama Diyanet İşleri Başkanlığı'nın resmî uygulaması değildir; vakitler kurumun herkese açık yayımladığı takvimden alınır.
