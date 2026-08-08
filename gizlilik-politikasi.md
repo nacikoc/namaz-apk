@@ -33,4 +33,4 @@ da ek bir veri riski taşımaz.
 
 ## İletişim
 
-Sorularınız için: nakitasarim7@gmail.com
+Sorularınız için: nakisoft@gmail.com
